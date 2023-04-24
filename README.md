@@ -1,1 +1,1 @@
-# Resoluções para alguma questões do site Beecrowd em linguagem Ruby
+# Resoluções para algumas questões do site Beecrowd em linguagem Ruby
